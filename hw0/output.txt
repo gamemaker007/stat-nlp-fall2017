@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Karthik
+   last: Venkatesan
+email: kv730@nyu.edu
+leaderboard: gamemaker007
