@@ -2000,7 +2000,7 @@ that	WDT
 had	VBD
 been	VBN
 done	VBN
-unto	NNP
+unto	JJ
 similarly	RB
 by	IN
 the	DT
@@ -2253,7 +2253,7 @@ Nos.	NNP
 through	IN
 9	CD
 ,	,
-a.k.a.	NNP
+a.k.a.	PDT
 the	DT
 ``	``
 bottom	NN
@@ -2307,7 +2307,7 @@ side	NN
 of	IN
 the	DT
 Saturday	NNP
-ledger	NNP
+ledger	NN
 .	.
 
 That	DT
@@ -2694,7 +2694,7 @@ Williams	NNP
 ,	,
 a	DT
 Sacramento	NNP
-septuagenarian	NNP
+septuagenarian	NN
 ,	,
 at	IN
 the	DT
@@ -2780,7 +2780,7 @@ and	CC
 White	NNP
 Sox	NNP
 (	(
-hey	NNP
+hey	NN
 ,	,
 it	PRP
 's	VBZ
@@ -2870,7 +2870,7 @@ was	VBD
 flawless	JJ
 afield	RB
 (	(
-ditto	NNP
+ditto	JJ
 in	IN
 game	NN
 two	CD
@@ -3195,7 +3195,7 @@ But	CC
 the	DT
 old	JJ
 Dodger	NNP
-slugger	NNP
+slugger	NN
 wisely	RB
 offered	VBD
 no	DT
@@ -4002,7 +4002,7 @@ hours	NNS
 .	.
 
 By	IN
-lunchtime	NNP
+lunchtime	NN
 ,	,
 the	DT
 selling	NN
@@ -12588,7 +12588,7 @@ new	JJ
 doctor	NN
 's	POS
 ``	``
-bedside	JJ
+bedside	NN
 ''	''
 extension	NN
 .	.
@@ -14291,7 +14291,7 @@ Co.	NNP
 maker	NN
 of	IN
 Cascade	NNP
-dishwasher	NNP
+dishwasher	NN
 detergent	NN
 .	.
 
@@ -14903,7 +14903,7 @@ matters	NNS
 close	JJ
 to	IN
 ,	,
-er	UH
+er	NN
 ,	,
 home	NN
 ...	:
@@ -16194,7 +16194,7 @@ prices	NNS
 signalling	VBG
 Federal	NNP
 Reserve	NNP
-tightness	NNP
+tightness	NN
 ;	:
 and	CC
 the	DT
@@ -19665,7 +19665,7 @@ almost	RB
 any	DT
 collection	NN
 of	IN
-anti-scientific	NNP
+anti-scientific	JJ
 ,	,
 anti-pocketbook	NN
 nonsense	NN
@@ -20194,7 +20194,7 @@ now	RB
 ,	,
 to	IN
 the	DT
-pre-trading	VBG
+pre-trading	JJ
 declaration	NN
 of	IN
 Big	NNP
@@ -22243,8 +22243,8 @@ Jupiter	NNP
 .	.
 
 The	DT
-anti-defense	NNP
-Greens	NNP
+anti-defense	NN
+Greens	NNS
 wanted	VBD
 a	DT
 Washington	NNP
@@ -24715,7 +24715,7 @@ trading	NN
 is	VBZ
 halted	VBN
 during	IN
-lunchtime	NNP
+lunchtime	NN
 .	.
 
 Tokyo	NNP
@@ -28217,7 +28217,7 @@ recently	RB
 signed	VBD
 Olympic	NNP
 gold	NN
-medalist	NNP
+medalist	NN
 Florence	NNP
 Griffith	NNP
 -	HYPH
@@ -28791,7 +28791,7 @@ they	PRP
 all	RB
 say	VBP
 `	``
-wow	UH
+wow	JJ
 .	.
 '	''
 
@@ -33211,8 +33211,8 @@ include	VB
 businesses	NNS
 such	JJ
 as	IN
-McVities	NNP
-biscuits	NNPS
+McVities	NNS
+biscuits	NNS
 and	CC
 Terry	NNP
 's	POS
@@ -37364,7 +37364,7 @@ In	IN
 addition	NN
 to	IN
 making	VBG
-electro	NNP
+electro	NN
 -	HYPH
 optical	JJ
 systems	NNS
@@ -40315,7 +40315,7 @@ Wallach	NNP
 an	DT
 associate	NN
 of	IN
-ex-Attorney	NNP
+ex-Attorney	NN
 General	NNP
 Meese	NNP
 ,	,
